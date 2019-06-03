@@ -1,0 +1,17 @@
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\bin\Debug\graph.exe
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\bin\Debug\graph.pdb
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.Form1.resources
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.Properties.Resources.resources
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.csproj.GenerateResource.Cache
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.exe
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.pdb
+M:\Documents\Visual Studio 2010\Projects\s1381036\graph\graph\obj\x86\Debug\graph.csprojResolveAssemblyReference.cache
+e:\Programming\C#\FreeLance\Лада\graph\graph\bin\Debug\graph.exe
+e:\Programming\C#\FreeLance\Лада\graph\graph\bin\Debug\graph.pdb
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.csprojAssemblyReference.cache
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.Properties.Resources.resources
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.csproj.GenerateResource.cache
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.csproj.CoreCompileInputs.cache
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.exe
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.pdb
+e:\Programming\C#\FreeLance\Лада\graph\graph\obj\x86\Debug\graph.Main_Form.resources
